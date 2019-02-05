@@ -15,18 +15,29 @@ const propTypes = {};
 
 class Category extends Component {
   render() {
-    const category = config.find(
-      item => item.link === this.props.location.pathname.split("/category")[1]
-    );
+    const [, , type, name] = this.props.location.pathname.split("/");
 
-    if (!category) {
+    const carType = config.find(item => {
+      return item.link === `/${type}`;
+    });
+
+    if (!carType) {
       return null;
     }
+
+    const car = carType.cars.find(car => car.link === `/${name}`);
+
+    if (!car) {
+      return null;
+    }
+
+    const { name: carName, photos } = car;
+
     return (
       <div className="category">
         <Link to="/">Back</Link>
-        <h2>{category.title}</h2>
-        <Category2 photos={category.photos} />
+        <h2>{carName}</h2>
+        <Category2 photos={photos} />
       </div>
     );
   }

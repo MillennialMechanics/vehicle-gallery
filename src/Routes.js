@@ -1,18 +1,18 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
 
-import CategoriesPage from "./pages/Categories/C/C";
-import CategoryPage from "./pages/Category/Category";
-
-// categories
+import HomePage from "./pages/Home/Home";
+import CarsPage from "./pages/Cars/CarsContainer";
+import CarPage from "./pages/Car/CarContainer";
+import AboutPage from "./pages/About/About";
+import ContactUsPage from "./pages/ContactUs/ContactUs";
 
 export default (
-  <Router>
-    <div>
-      <Switch>
-        <Route path="/" exact component={CategoriesPage} />
-        <Route path="/category/*" component={CategoryPage} />
-      </Switch>
-    </div>
-  </Router>
+  <Switch>
+    <Route path="/" exact component={HomePage} />
+    <Route path="/type/*" component={CarsPage} />
+    <Route path="/car/*" component={CarPage} />
+    <Route path="/about" component={AboutPage} />
+    <Route path="/contact-us" component={ContactUsPage} />
+  </Switch>
 );

@@ -5,18 +5,23 @@ import { Link } from "react-router-dom";
 import "./Categories.scss";
 
 const propTypes = {
-  categories: PropTypes.array.isRequired
+  // type:
+  cars: PropTypes.array.isRequired
 };
 
-const Categories = ({ categories }) => {
+const Categories = ({ cars, type }) => {
   return (
     <div className="categories">
-      {categories.map(item => {
+      {cars.map(item => {
         const { image, link, title } = item;
         return (
           <div>
             <h5>{title}</h5>
-            <Link to={`/category${link}`} key={title} className="category-item">
+            <Link
+              to={`/car${type}${link}`}
+              key={title}
+              className="category-item"
+            >
               <img src={image} alt={title} />
             </Link>
           </div>
