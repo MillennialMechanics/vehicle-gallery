@@ -1,0 +1,263 @@
+[{
+        "title": "Name of category",
+        "link": "/cars",
+        "image": "https://media.wired.com/photos/5aa18e3edc9df6500b90747b/master/pass/CarRoundup-Mclaren.jpg",
+        "photos": [{
+                "src": "https://cdn.motor1.com/images/mgl/1l4qp/s3/25-future-cars-worth-waiting-for.jpg",
+                "points": [{
+                        "position": {
+                            "top": "20%",
+                            "left": "10%"
+                        },
+                        "links": [{
+                                "title": "1",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "2",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "3",
+                                "link": "/sss"
+                            }
+                        ]
+                    },
+                    {
+                        "position": {
+                            "top": "30%",
+                            "left": "20%"
+                        },
+                        "links": [{
+                                "title": "1",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "2",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "3",
+                                "link": "/sss"
+                            }
+                        ]
+                    }
+                ]
+            }, {
+                "src": "https://media.wired.com/photos/59bafdf204afdc5248726f5c/master/w_2400,c_limit/BMW-TA.jpg",
+                "points": [{
+                        "position": {
+                            "top": "80%",
+                            "left": "60%"
+                        },
+                        "links": [{
+                                "title": "1",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "2",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "3",
+                                "link": "/sss"
+                            }
+                        ]
+                    },
+                    {
+                        "position": {
+                            "top": "30%",
+                            "left": "20%"
+                        },
+                        "links": [{
+                                "title": "1",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "2",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "3",
+                                "link": "/sss"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "src": "https://www.cars.com/cstatic-images/car-pictures/xl/USC60BMC111A021001.jpg",
+                "points": [{
+                        "position": {
+                            "top": "50%",
+                            "left": "50%"
+                        },
+                        "links": [{
+                                "title": "1",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "2",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "3",
+                                "link": "/sss"
+                            }
+                        ]
+                    },
+                    {
+                        "position": {
+                            "top": "30%",
+                            "left": "20%"
+                        },
+                        "links": [{
+                                "title": "1",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "2",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "3",
+                                "link": "/sss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Name of category 2",
+        "link": "/cars2",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJeZhpC28GxkQKdpV13zbWjwAvDW1bGOqz5Mz5SfYwQYz6TBT",
+        "photos": [{
+                "src": "https://cdn.motor1.com/images/mgl/1l4qp/s3/25-future-cars-worth-waiting-for.jpg",
+                "points": [{
+                        "position": {
+                            "top": "20%",
+                            "left": "10%"
+                        },
+                        "links": [{
+                                "title": "1",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "2",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "3",
+                                "link": "/sss"
+                            }
+                        ]
+                    },
+                    {
+                        "position": {
+                            "top": "30%",
+                            "left": "20%"
+                        },
+                        "links": [{
+                                "title": "1",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "2",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "3",
+                                "link": "/sss"
+                            }
+                        ]
+                    }
+                ]
+            }, {
+                "src": "https://media.wired.com/photos/59bafdf204afdc5248726f5c/master/w_2400,c_limit/BMW-TA.jpg",
+                "points": [{
+                        "position": {
+                            "top": "80%",
+                            "left": "60%"
+                        },
+                        "links": [{
+                                "title": "1",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "2",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "3",
+                                "link": "/sss"
+                            }
+                        ]
+                    },
+                    {
+                        "position": {
+                            "top": "30%",
+                            "left": "20%"
+                        },
+                        "links": [{
+                                "title": "1",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "2",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "3",
+                                "link": "/sss"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "src": "https://www.cars.com/cstatic-images/car-pictures/xl/USC60BMC111A021001.jpg",
+                "points": [{
+                        "position": {
+                            "top": "50%",
+                            "left": "50%"
+                        },
+                        "links": [{
+                                "title": "1",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "2",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "3",
+                                "link": "/sss"
+                            }
+                        ]
+                    },
+                    {
+                        "position": {
+                            "top": "30%",
+                            "left": "20%"
+                        },
+                        "links": [{
+                                "title": "1",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "2",
+                                "link": "/sss"
+                            },
+                            {
+                                "title": "3",
+                                "link": "/sss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
