@@ -1,9 +1,6 @@
 import React from "react";
-import PropTypes from "prop-types";
 
 import "./Loader.scss";
-
-const propTypes = {};
 
 const Loader = () => {
   return (
@@ -12,7 +9,5 @@ const Loader = () => {
     </div>
   );
 };
-
-Loader.propTypes = propTypes;
 
 export default Loader;
