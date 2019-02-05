@@ -1,11 +1,23 @@
 import React, { Component } from "react";
+import { BrowserRouter as Router } from "react-router-dom";
 import Routes from "./Routes";
+
+import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
 
 import "./App.scss";
 
 class App extends Component {
   render() {
-    return <div className="App">{Routes}</div>;
+    return (
+      <Router>
+        <div className="app">
+          <Header />
+          {Routes}
+          <Footer />
+        </div>
+      </Router>
+    );
   }
 }
 
