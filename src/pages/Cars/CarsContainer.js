@@ -1,13 +1,12 @@
 import React, { Component } from "react";
-
 import { withRouter } from "react-router-dom";
 
-import Categories from "./Categories";
+import Cars from "./Cars";
 import config from "../../config";
 
-// import "./Categories.scss";
+import "./CarsContainer.scss";
 
-class CategoriesContainer extends Component {
+class CarsContainer extends Component {
   render() {
     const type = config.find(
       item => item.link === this.props.location.pathname.split("/type")[1]
@@ -18,13 +17,13 @@ class CategoriesContainer extends Component {
     }
 
     return (
-      <div className="">
+      <div className="cars-page">
         <h2>Cars</h2>
         <h3>{type.name}</h3>
-        <Categories cars={type.cars} type={type.link} />
+        <Cars cars={type.cars} type={type.link} />
       </div>
     );
   }
 }
 
-export default withRouter(CategoriesContainer);
+export default withRouter(CarsContainer);

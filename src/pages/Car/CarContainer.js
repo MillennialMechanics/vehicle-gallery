@@ -1,17 +1,11 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
-
 import { withRouter, Link } from "react-router-dom";
 
-import Category2 from "./Category2";
+import Car from "./Car";
 
 import config from "../../config";
 
-// import Loader from "../../components/Loader/Loader";
-
-import "./Category.scss";
-
-const propTypes = {};
+import "./CarContainer.scss";
 
 class Category extends Component {
   render() {
@@ -34,15 +28,13 @@ class Category extends Component {
     const { name: carName, photos } = car;
 
     return (
-      <div className="category">
+      <div className="car-page">
         <Link to="/">Back</Link>
         <h2>{carName}</h2>
-        <Category2 photos={photos} />
+        <Car photos={photos} />
       </div>
     );
   }
 }
-
-Category.propTypes = propTypes;
 
 export default withRouter(Category);

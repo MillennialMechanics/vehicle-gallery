@@ -1,0 +1,38 @@
+.car {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+
+  img {
+    width: 400px;
+    margin: 0 auto;
+    height: 300px;
+
+  }
+
+  .point {
+    position: absolute;
+    display: block;
+    height: 15px;
+    width: 15px;
+    background-color: red;
+    border-radius: 100%;
+  }
+
+  .images {
+    &:focus {
+      outline: none;
+    }
+  }
+
+
+  .image-wrapper {
+    position: relative;
+    width: 400px;
+    margin: 0 auto;
+  }
+
+  .slick-arrow:before {
+    color: #d50038;
+  }
+}
