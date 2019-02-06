@@ -11,6 +11,9 @@ class App extends Component {
     return (
       <div className="app">
         <Header />
+        <div className="hero-wallpaper">
+          <h4>Some information</h4>
+        </div>
         <div className="content">{Routes}</div>
         <Footer />
       </div>
