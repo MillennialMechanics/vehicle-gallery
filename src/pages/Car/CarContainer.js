@@ -29,9 +29,11 @@ class Category extends Component {
 
     return (
       <div className="car-page">
-        <Link to="/">Back</Link>
         <h2>{carName}</h2>
         <Car photos={photos} />
+        <Link to="/" className="btn">
+          Back
+        </Link>
       </div>
     );
   }

@@ -1,38 +1,58 @@
 .car {
   text-align: center;
   width: 50%;
-  margin: 0 auto;
+  margin: 40px auto;
 
   img {
-    width: 400px;
+    width: 700px;
     margin: 0 auto;
-    height: 300px;
-
+    height: 450px;
+    box-shadow: -2px 10px 25px 0 rgba(0, 0, 0, 0.3);
   }
 
   .point {
     position: absolute;
     display: block;
-    height: 15px;
-    width: 15px;
-    background-color: red;
+    height: 20px;
+    width: 20px;
+    background-color: orangered;
     border-radius: 100%;
   }
 
   .images {
+    padding-bottom: 20px;
+
     &:focus {
       outline: none;
     }
   }
 
-
   .image-wrapper {
     position: relative;
-    width: 400px;
+    width: 700px;
     margin: 0 auto;
   }
 
-  .slick-arrow:before {
-    color: #d50038;
+  .slick-arrow {
+    border: solid rgba(116, 112, 112, 0.74);
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+
+    &::before {
+      display: none;
+    }
+
+    &:hover {
+      border-color: rgb(47, 54, 61);
+    }
+  }
+
+  .slick-prev {
+    transform: rotate(135deg);
+  }
+
+  .slick-next {
+    transform: rotate(-45deg);
   }
 }

@@ -15,7 +15,7 @@ const Cars = ({ cars, type }) => {
       {cars.map(item => {
         const { image, link, name } = item;
         return (
-          <div key={name}>
+          <div key={name} className="cars-item">
             <h5>{name}</h5>
             <Link to={`/car${type}${link}`} className="category-item">
               <img src={image} alt={name} />

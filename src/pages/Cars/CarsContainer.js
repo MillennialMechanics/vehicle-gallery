@@ -18,7 +18,6 @@ class CarsContainer extends Component {
 
     return (
       <div className="cars-page">
-        <h2>Cars</h2>
         <h3>{type.name}</h3>
         <Cars cars={type.cars} type={type.link} />
       </div>
