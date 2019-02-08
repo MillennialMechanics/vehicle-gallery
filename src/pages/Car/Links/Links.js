@@ -14,7 +14,9 @@ const Links = ({ links }) => {
         const { text, link: href } = link;
         return (
           <li>
-            <a href={href}>{text}</a>
+            <a href={href} target="_blank" rel="noopener noreferrer">
+              {text}
+            </a>
           </li>
         );
       })}
