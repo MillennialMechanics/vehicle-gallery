@@ -7,9 +7,8 @@ const About = () => {
     <div className="about">
       <h3>About us</h3>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est repellat
-        necessitatibus consectetur ipsum accusamus nam, magni laborum eligendi
-        culpa at?
+        Here at Millennial Mechanics we believe in inspiring people to do it themselves. 
+        Whether your on a budget or just someone who enjoys DIY projects this site is the site for you.
       </p>
     </div>
   );
