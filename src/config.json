@@ -2,9 +2,9 @@
   "name": "Honda",
   "link": "/Honda",
   "cars": [{
-    "name": "Honda Accord 2015",
+    "name": "Honda Accord 2013-2015",
     "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121003.jpg",
-    "link": "/Accord-2015",
+    "link": "/Accord-13-15",
     "photos": [{
         "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121003.jpg",
         "points": [{
@@ -13,11 +13,11 @@
               "left": "10%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
               },
               {
@@ -31,16 +31,15 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           }
@@ -53,16 +52,15 @@
               "left": "60%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           },
@@ -72,16 +70,15 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           }
@@ -95,16 +92,15 @@
               "left": "50%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121001.jpg"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121001.jpg"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121001.jpg"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           },
@@ -114,16 +110,15 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-101"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-101"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-101"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           }
@@ -131,9 +126,9 @@
       }
     ]
   }, {
-    "name": "Honda Civic",
+    "name": "Honda Civic 2012-2015",
     "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121003.jpg",
-    "link": "/Civic-2015",
+    "link": "/Civic-12-15",
     "photos": [{
         "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121003.jpg",
         "points": [{
@@ -142,16 +137,15 @@
               "left": "10%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           },
@@ -161,16 +155,15 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           }
@@ -183,16 +176,15 @@
               "left": "60%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121002.jpg"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           },
@@ -202,16 +194,15 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           }
@@ -225,16 +216,15 @@
               "left": "50%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121001.jpg"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           },
@@ -244,16 +234,15 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           }
@@ -262,30 +251,29 @@
     ]
   }]
 }, {
-  "name": "Car Model",
+  "name": "Toyota",
   "link": "/Toyota",
   "cars": [{
-    "name": "Toyota Camry 2015",
-    "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC50TOC021A021002.jpg",
-    "link": "/Camry-2015",
+    "name": "Toyota Camry 2014-2016",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015TOY003a_1280_03",
+    "link": "/Camry-14-16",
     "photos": [{
-        "src": "https://cdn.motor1.com/images/mgl/1l4qp/s3/25-future-cars-worth-waiting-for.jpg",
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015TOY003a_1280_03",
         "points": [{
             "position": {
               "top": "20%",
               "left": "10%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           },
@@ -295,38 +283,36 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           }
         ]
       }, {
-        "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC50TOC021A021001.jpg",
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2015TOY003a_1280_02",
         "points": [{
             "position": {
               "top": "80%",
               "left": "60%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           },
@@ -336,39 +322,37 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           }
         ]
       },
       {
-        "src": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg",
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015TOY003a_1280_01",
         "points": [{
             "position": {
               "top": "50%",
               "left": "50%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           },
@@ -378,16 +362,15 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
                 "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           }
@@ -396,30 +379,27 @@
     ]
   }]
 }, {
-  "name": "Car Model",
-  "link": "Volkswagen",
-  "cars": [{
-    "name": "Volkswagen CC Sport 2010",
-    "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC00VWC202A0112.jpg",
-    "link": "/CCSport-2010",
+  "name": "Toyota Corolla 2014-2016",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015TOY005c_1280_03",
+    "link": "/Corolla-14-16",
     "photos": [{
-        "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC00VWC202A0112.jpg",
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015TOY005c_1280_03",
         "points": [{
             "position": {
               "top": "20%",
               "left": "10%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "text": "Mechanic",
+                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
               }
             ]
           },
@@ -429,38 +409,36 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           }
         ]
       }, {
-        "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC00VWC202A0101.jpg",
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015TOY005c_1280_02",
         "points": [{
             "position": {
               "top": "80%",
               "left": "60%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "text": "Tutorial",
+                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121002.jpg"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           },
@@ -470,39 +448,37 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           }
         ]
       },
       {
-        "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC00VWC202A0102.jpg",
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015TOY005c_1280_01",
         "points": [{
             "position": {
               "top": "50%",
               "left": "50%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+                "text": "Tutorial",
+                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121001.jpg"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           },
@@ -512,16 +488,268 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+              },
+              {
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }]
+}, {
+  "name": "Nissan",
+  "link": "/Nissan",
+  "cars": [{
+    "name": "Nissan Sentra 2013-2015",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015NIS011c_1280_03",
+    "link": "/Sentra-13-15",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015NIS011c_1280_03",
+        "points": [{
+            "position": {
+              "top": "20%",
+              "left": "10%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+              },
+              {
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+              },
+              {
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015NIS011c_1280_02",
+        "points": [{
+            "position": {
+              "top": "80%",
+              "left": "60%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+              },
+              {
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+              },
+              {
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015NIS011c_1280_01",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
               },
               {
-                "text": "/Part",
+                "text": "Part",
                 "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
               },
               {
-                "text": "/Mechanic",
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
                 "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+              },
+              {
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }]
+}, {
+    "name": "Nissan Altima 2013-2015",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015NIS002b_1280_03",
+    "link": "/Altima-13-15",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015NIS002b_1280_03",
+        "points": [{
+            "position": {
+              "top": "20%",
+              "left": "10%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+              },
+              {
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+              },
+              {
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015NIS002b_1280_02",
+        "points": [{
+            "position": {
+              "top": "80%",
+              "left": "60%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121002.jpg"
+              },
+              {
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+              },
+              {
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015NIS002b_1280_01",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121001.jpg"
+              },
+              {
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+              },
+              {
+                "text": "Part",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
               }
             ]
           }
