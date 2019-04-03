@@ -7,17 +7,9 @@ const Home = () => {
     <div className="home">
       <h3>Home</h3>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea aliquam
-        numquam, facilis optio expedita distinctio aperiam ducimus accusantium
-        officia ab placeat nam, totam impedit laboriosam quod molestiae id
-        pariatur cum accusamus, aspernatur odit itaque illo doloremque? Nobis
-        provident, voluptates doloremque non explicabo recusandae quo quisquam,
-        excepturi sapiente incidunt voluptas ipsam ut vitae aperiam commodi esse
-        molestias reiciendis eligendi. Fugit atque fugiat animi necessitatibus
-        sequi voluptate suscipit, pariatur quibusdam recusandae ab laudantium
-        dolorem amet voluptas qui ducimus labore adipisci et! Iusto quae,
-        voluptas quia alias dicta nostrum architecto maxime pariatur. Veritatis,
-        libero maxime cum maiores culpa eum eligendi harum saepe placeat?
+        Revolutionizing the way you fix your car so that you can spend time and 
+        money the way you want to. Finally everything you need to fix your car, 
+        all provided to you in one place.
       </p>
     </div>
   );
