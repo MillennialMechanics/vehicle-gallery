@@ -12,7 +12,7 @@ class App extends Component {
       <div className="app">
         <Header />
         <div className="hero-wallpaper">
-          <h4>Some information</h4>
+          <h4>   "The self-repair website that millennials are talking about."</h4>
         </div>
         <div className="content">{Routes}</div>
         <Footer />
