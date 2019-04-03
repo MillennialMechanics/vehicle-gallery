@@ -2,45 +2,42 @@
   "name": "Honda",
   "link": "/Honda",
   "cars": [{
-    "name": "Honda Accord 2015",
+    "name": "Honda Accord 2013-2015",
     "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121003.jpg",
-    "link": "/Accord-2015",
+    "link": "/Accord-13-15",
     "photos": [{
         "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121003.jpg",
         "points": [{
             "position": {
-              "top": "20%",
-              "left": "10%"
+              "top": "58%",
+              "left": "15%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=j7t4y43zrlI"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$30-$65</span></div>"
               },
               {
-                "content": "<div class='info-box'><p>Mechanic Average</p><span>100-150</span></div>"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$108-$138</span></div>"
               }
             ]
           },
           {
             "position": {
-              "top": "30%",
+              "top": "64%",
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=3gSyHyrFN2Y"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$105-$150</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$118</span></div>"
               }
             ]
           }
@@ -49,39 +46,35 @@
         "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121002.jpg",
         "points": [{
             "position": {
-              "top": "80%",
-              "left": "60%"
+              "top": "60%",
+              "left": "25%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=xRZ81VmyTtA"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$60-$400</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$935-$1580</span></div>"
               }
             ]
           },
           {
             "position": {
-              "top": "30%",
-              "left": "20%"
+              "top": "46%",
+              "left": "37%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=bzfgWtMwCAs"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Tail light Average Cost</p><span>$5-$13</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$115-$126</span></div>"
               }
             ]
           }
@@ -91,20 +84,56 @@
         "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121001.jpg",
         "points": [{
             "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=yMYcVQmHx54"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$16-$26</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=XfnPgkogJzM"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$10-$33(19inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$46-$49</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015HON003c_1280_25",
+        "points": [{
+            "position": {
               "top": "50%",
               "left": "50%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121001.jpg"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=u37maByPDoA"
               },
               {
-                "text": "/Part",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121001.jpg"
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$105-$150</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC011B121001.jpg"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
               }
             ]
           },
@@ -114,16 +143,14 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-101"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=kO1wYy6wsJI"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-101"
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-101"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
               }
             ]
           }
@@ -131,46 +158,42 @@
       }
     ]
   }, {
-    "name": "Honda Civic",
+    "name": "Honda Civic 2012-2015",
     "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121003.jpg",
-    "link": "/Civic-2015",
+    "link": "/Civic-12-15",
     "photos": [{
         "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121003.jpg",
         "points": [{
             "position": {
-              "top": "20%",
-              "left": "10%"
+              "top": "58%",
+              "left": "15%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=RktXFq_1XrU"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$15-$65</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$176-$225</span></div>"
               }
             ]
           },
           {
             "position": {
-              "top": "30%",
+              "top": "64%",
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=3gSyHyrFN2Y"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$$70-$125</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Accord-Sport__4dr_Sedan/photos/#slide-112"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$119</span></div>"
               }
             ]
           }
@@ -179,39 +202,35 @@
         "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121002.jpg",
         "points": [{
             "position": {
-              "top": "80%",
-              "left": "60%"
+              "top": "60%",
+              "left": "25%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121002.jpg"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=Yr0_kHUxfjU"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$$30-$500</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$935-$1580</span></div>"
               }
             ]
           },
           {
             "position": {
-              "top": "30%",
-              "left": "20%"
+              "top": "41%",
+              "left": "37%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=LijupULJJ7M"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$5-$13</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$115-$126</span></div>"
               }
             ]
           }
@@ -221,20 +240,56 @@
         "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121001.jpg",
         "points": [{
             "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=RwJm1ozoToI"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$16-$26(one)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=Li-cOP8J-g8"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Average Cost</p><span>$10-$23(22inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$47-$50</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015HON006k_1280_25",
+        "points": [{
+            "position": {
               "top": "50%",
               "left": "50%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50HOC021A121001.jpg"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=pwzsv_AN02Y"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$96-$122</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
               }
             ]
           },
@@ -244,16 +299,14 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=kO1wYy6wsJI"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
               }
             ]
           }
@@ -262,113 +315,141 @@
     ]
   }]
 }, {
-  "name": "Car Model",
+  "name": "Toyota",
   "link": "/Toyota",
   "cars": [{
-    "name": "Toyota Camry 2015",
-    "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC50TOC021A021002.jpg",
-    "link": "/Camry-2015",
+    "name": "Toyota Camry 2014-2016",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015TOY003a_1280_03",
+    "link": "/Camry-14-16",
     "photos": [{
-        "src": "https://cdn.motor1.com/images/mgl/1l4qp/s3/25-future-cars-worth-waiting-for.jpg",
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015TOY003a_1280_03",
         "points": [{
             "position": {
-              "top": "20%",
-              "left": "10%"
+              "top": "58%",
+              "left": "15%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=BioDF_m4_CY"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$28-$60</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$127-$163</span></div>"
               }
             ]
           },
           {
             "position": {
-              "top": "30%",
+              "top": "64%",
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=i2JWkDyg26A"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$59-$127</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$124</span></div>"
               }
             ]
           }
         ]
       }, {
-        "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC50TOC021A021001.jpg",
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_480/prod/cars/chrome/white/2015TOY003a_1280_02",
         "points": [{
             "position": {
-              "top": "80%",
-              "left": "60%"
+              "top": "58%",
+              "left": "25%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=K0tuf84ZTg4"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$55-$160</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$958-$1621</span></div>"
               }
             ]
           },
           {
             "position": {
-              "top": "30%",
-              "left": "20%"
+              "top": "40%",
+              "left": "41%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=vGx6LrA-isU"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$5-$10</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2015-Toyota-Camry/photos/#slide-101"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$125-$136</span></div>"
               }
             ]
           }
         ]
       },
       {
-        "src": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg",
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015TOY003a_1280_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=9FeE6ol_QS4"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$15-$27</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=YQfmAVNGl2A"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$10-$17(18inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$52-$55</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015TOY003a_1280_25",
         "points": [{
             "position": {
               "top": "50%",
               "left": "50%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=9FeE6ol_QS4"
               },
               {
-                "text": "/Part",
-                "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$49-$63</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$15-$27</span></div>"
               }
             ]
           },
@@ -378,16 +459,170 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=YQfmAVNGl2A"
               },
               {
-                "text": "/Part",
-                "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$10-$17(18inch)</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/White/640/2015TOY003a_640/2015TOY003a_640_03.jpg"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$52-$55</span></div>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+  "name": "Toyota Corolla 2014-2016",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015TOY005c_1280_03",
+    "link": "/Corolla-14-16",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015TOY005c_1280_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=z2WUnJmk6zE"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$27-$60</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$127-$163</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=i2JWkDyg26A"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$44-$110</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$125</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015TOY005c_1280_02",
+        "points": [{
+            "position": {
+              "top": "57%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=U8vF9rkUmD8"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$60-$280</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$958-$1621</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "40%",
+              "left": "37%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=6pWmRV0v9YI"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$5-$10</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$125-$136</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015TOY005c_1280_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=GHezj9nmbxE"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$15-$27</span></div>"
+              },
+              {
+               "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.autoblog.com/buy/2015-Honda-Civic/photos/#slide-102"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$9-$17(16inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$52-$55</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015TOY005c_1280_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=TilQDwpHzmQ"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$83-$124</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=LeHfFKO-cQk"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
               }
             ]
           }
@@ -396,113 +631,141 @@
     ]
   }]
 }, {
-  "name": "Car Model",
-  "link": "Volkswagen",
+  "name": "Nissan",
+  "link": "/Nissan",
   "cars": [{
-    "name": "Volkswagen CC Sport 2010",
-    "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC00VWC202A0112.jpg",
-    "link": "/CCSport-2010",
+    "name": "Nissan Sentra 2013-2015",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015NIS011c_1280_03",
+    "link": "/Sentra-13-15",
     "photos": [{
-        "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC00VWC202A0112.jpg",
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015NIS011c_1280_03",
         "points": [{
             "position": {
-              "top": "20%",
-              "left": "10%"
+              "top": "58%",
+              "left": "15%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=SXD6lSt5yic"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "content": "<div class='info-box'><p>Front Brakes Average</p><span>$25-$55</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$147-$188</span></div>"
               }
             ]
           },
           {
             "position": {
-              "top": "30%",
+              "top": "64%",
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=3gSyHyrFN2Y"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$48-$125</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-112"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$122</span></div>"
               }
             ]
           }
         ]
       }, {
-        "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC00VWC202A0101.jpg",
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015NIS011c_1280_02",
         "points": [{
             "position": {
-              "top": "80%",
-              "left": "60%"
+              "top": "57%",
+              "left": "25%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=YeTCDqb3LO8"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "content": "<div class='info-box'><p>Rear Bumper Average</p><span>$60-$300</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$885-$1175</span></div>"
               }
             ]
           },
           {
             "position": {
-              "top": "30%",
-              "left": "20%"
+              "top": "41%",
+              "left": "37%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=dpah9_MlLYw"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "content": "<div class='info-box'><p>Tail Light Average</p><span>$5-$15</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-101"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$102-$113</span></div>"
               }
             ]
           }
         ]
       },
       {
-        "src": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/CAC00VWC202A0102.jpg",
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015NIS011c_1280_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=QRTb80MzbyI"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$16-$26</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=Gi5-jnQl9wk"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$6-$17(15inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$56-$59</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2013NIS011c_640_25",
         "points": [{
             "position": {
               "top": "50%",
               "left": "50%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=c5dTkf-l6j8&t=27s"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$119-$145</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$49-$63</span></div>"
               }
             ]
           },
@@ -512,16 +775,170 @@
               "left": "20%"
             },
             "links": [{
-                "text": "/Tutorial",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=2C7orAGl1Cc"
               },
               {
-                "text": "/Part",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+                "content": "<div class='info-box'><p>Spark Plug Average Cost</p><span>$48-$72</span></div>"
               },
               {
-                "text": "/Mechanic",
-                "link": "https://www.autoblog.com/buy/2010-Volkswagen-CC/photos/#slide-102"
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$69-$88</span></div>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+    "name": "Nissan Altima 2013-2015",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015NIS002b_1280_03",
+    "link": "/Altima-13-15",
+    "photos": [{
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015NIS002b_1280_03",
+        "points": [{
+            "position": {
+              "top": "58%",
+              "left": "15%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=A2TPtqrXxps"
+              },
+              {
+                "content": "<div class='info-box'><p>Front Brakes Average Cost</p><span>$30-$59</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$108-$138</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "64%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=3gSyHyrFN2Y"
+              },
+              {
+                "content": "<div class='info-box'><p>Tire Replacement Average Cost</p><span>$65-$150</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$88-$123</span></div>"
+              }
+            ]
+          }
+        ]
+      }, {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015NIS002b_1280_02",
+        "points": [{
+            "position": {
+              "top": "55%",
+              "left": "25%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=Luw_YCoCfEk"
+              },
+              {
+                "content": "<div class='info-box'><p>Rear Bumper Average Cost</p><span>$50-$550</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$30-$59</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "40%",
+              "left": "37%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=Terc6ESc9uM"
+              },
+              {
+                "content": "<div class='info-box'><p>Tail Light Average Cost</p><span>$5-$15</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$125-$136</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1600/prod/cars/chrome/white/2015NIS002b_1280_01",
+        "points": [{
+            "position": {
+              "top": "48%",
+              "left": "40%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=a4dF7CqWPbI"
+              },
+              {
+                "content": "<div class='info-box'><p>Headlight Average Cost</p><span>$16-$26</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$29-$38</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "32%",
+              "left": "38%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=PI9fuTVqcNY"
+              },
+              {
+                "content": "<div class='info-box'><p>Windshield Wiper Average Cost</p><span>$9-$17(16inch)</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$42-$45</span></div>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "src": "https://crdms.images.consumerreports.org/c_lfill,w_1200/prod/cars/chrome/white/2015NIS002f_1280_25",
+        "points": [{
+            "position": {
+              "top": "50%",
+              "left": "50%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=s9A6iQ_fg0I"
+              },
+              {
+                "content": "<div class='info-box'><p>New Battery Average Cost</p><span>$77-$121</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$69-$88</span></div>"
+              }
+            ]
+          },
+          {
+            "position": {
+              "top": "30%",
+              "left": "20%"
+            },
+            "links": [{
+                "text": "Tutorial",
+                "link": "https://www.youtube.com/watch?v=2C7orAGl1Cc&t=454s"
+              },
+              {
+                "content": "<div class='info-box'><p>Spark Plugs Average Cost</p><span>$48-$72</span></div>"
+              },
+              {
+                "content": "<div class='info-box'><p>Mechanic Average</p><span>$78-$100</span></div>"
               }
             ]
           }
