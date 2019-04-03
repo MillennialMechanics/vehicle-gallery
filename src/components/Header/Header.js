@@ -8,7 +8,7 @@ import "./Header.scss";
 const Header = () => {
   return (
     <header className="header">
-      <span className="logo">logo</span>
+      <span className="logo"></span>
       <nav>
         <NavLink to="/" exact activeClassName="selected">
           Home
